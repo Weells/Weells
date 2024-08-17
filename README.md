@@ -1,5 +1,12 @@
-## Hi there 👋
+# Sobre Mim
 
+- **Estudante de Ciência da Computação** na *Universidade Paulista*.
+- **Objetivo Profissional:** Desenvolver-me como um desenvolvedor fullstack.
+
+:seedling: Adoro o sentimento recompensador da resolução de problemas.
+
+-------------
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Weells&layout=compact&theme=dracula)
 <!--
 **Weells/Weells** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
